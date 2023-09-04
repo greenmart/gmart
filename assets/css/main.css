@@ -3153,14 +3153,18 @@
 		border: none;
 		outline: none;
 		cursor: pointer;
-		padding: 10px 10px;
+		padding: 8px 12px;
 		transition: 0.3s;
 		font-weight: 500;
 		line-height: 1.5;
 		border-top-left-radius: 10px;
 		border-top-right-radius: 10px;
 	}
-
+	
+	.tabtitle button a {
+		font-size: 1.2em;
+	}
+	
 	/* Change background color of buttons on hover */
 	.tabtitle button:hover {
 		background-color: #b3b3b3;
@@ -3464,7 +3468,7 @@
 		}
 
 		#banner p {
-		font-size: 1.2em;
+			font-size: 1.2em;
 		}
 	}
 
@@ -3535,7 +3539,7 @@
 		}
 
 	}
-	
+
 	/* Resets (http://meyerweb.com/eric/tools/css/reset/ | v2.0 | 20110126 | License: none (public domain)) */
 
 	#featured-content {
@@ -3591,7 +3595,6 @@
 		margin-left: 10px;
 		margin-right: 10px;
 	}
-	
 	
 	#gotop {
 		display: none;
