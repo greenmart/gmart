@@ -1687,6 +1687,7 @@
 		margin-right: 0;
 		margin-bottom: 0em;
 		margin-left: 0;
+		white-space: nowrap;
 	}
 	
 	h7 {
